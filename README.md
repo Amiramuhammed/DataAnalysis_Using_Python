@@ -41,5 +41,5 @@ Install required packages:
 
 ```bash
 pip install pandas requests matplotlib seaborn
----
+
 
